@@ -10,6 +10,10 @@
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_total_summary.PNG)
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot_summary.PNG)
 ## T-Tests on Suspension Coils
+Suspension Coils Cumulative T-Test
+![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_cumulative_ttest.PNG)
+* Comparing results from the t-test across all lots shows they are not statistically different from the population mean. With the p-value being 0.06028 we fail to reject the null hypothesis.
+
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot1.PNG)
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot2.PNG)
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot3.PNG)
