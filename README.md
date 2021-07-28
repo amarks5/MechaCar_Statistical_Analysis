@@ -9,6 +9,7 @@
 ## Summary Statistics on Suspension Coils
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_total_summary.PNG)
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot_summary.PNG)
+* When looking at the Total Summary data above, we see the variance is well below the 100 psi limit and meets the specifications. However, when you look at the lots individually you can clearly see there is something wrong with Lot 3. Lot 3 is much higher than the acceptable limit coming in at 170.29.
 ## T-Tests on Suspension Coils
 Suspension Coils Cumulative T-Test
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_cumulative_ttest.PNG)
