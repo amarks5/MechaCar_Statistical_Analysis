@@ -24,6 +24,16 @@ Suspension Coils Cumulative T-Test
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot3.PNG)
 * Reviewing the t-test results for Lot 3, we observe it is slightly statistically different from the population mean. The p-value = 0.0417, so we can reject the null hypothesis. (We should take a closer look at this lot)
 
-
 ## Study Design: MechaCar vs Competition
+Consumers have many factors in play when deciding on purchasing a car. 
+### Metric to Test
+City and highway fuel efficiencies
+### Null and Alternative Hypothesis
+* Null Hypothesis: Cars in the same vehicle class have the same fuel efficiency.
+* Alternative Hypothesis: Cars in the same vehicle class do not have the same fuel efficiency.
+### Statistical Test
+Using an ANOVA test for an analysis of the types of fuel efficiencies. In addition, I would use a boxplot to see the potential spread between different cars.
+
+### Data Needed for Statistical Test
+We would need a sample size of 50 cars with the fuel efficiency data for each car in the class type.
 
