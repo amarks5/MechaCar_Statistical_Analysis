@@ -7,7 +7,10 @@
 * Regardless of our findings above, the r-squared value of 0.7149 (blue box) tells us the model is 71% accurate which is pretty good, of course there is still room for improvement.
 
 ## Summary Statistics on Suspension Coils
-
+![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_total_summary.PNG)
+![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot_summary.PNG)
 ## T-Tests on Suspension Coils
-
+![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot1.PNG)
+![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot2.PNG)
+![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot3.PNG)
 ## Study Design: MechaCar vs Competition
