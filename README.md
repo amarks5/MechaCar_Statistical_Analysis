@@ -15,6 +15,13 @@ Suspension Coils Cumulative T-Test
 * Comparing results from the t-test across all lots shows they are not statistically different from the population mean. With the p-value being 0.06028 we fail to reject the null hypothesis.
 
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot1.PNG)
+* Reviewing the t-test results for just Lot 1 we see they are not statistically different from the population mean. The p-value = 1 so we fail to reject the null hypothesis.
+
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot2.PNG)
+* Reviewing the t-test results for Lot 2, we see they are not statistically different from the population mean. The p-value = 0.6072, we fail to reject the null hypothesis.
+
 ![alt text](https://github.com/amarks5/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot3.PNG)
+* Reviewing the t-test results for Lot 3, we observe it is slightly statistically different from the population mean. The p-value = 0.0417, so we can reject the null hypothesis. (We should take a closer look at this lot)
+
+
 ## Study Design: MechaCar vs Competition
